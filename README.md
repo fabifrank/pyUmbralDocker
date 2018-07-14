@@ -63,7 +63,7 @@ Traceback (most recent call last):
 umbral.pre.GenericUmbralError
 ```
 
-You can now edit the files in `./contents` with your favourite editor and run them in the continer.
+You can now edit the files in `./contents` with your favourite editor and run them in the container.
 
 
 # Whats PyUmbral?
