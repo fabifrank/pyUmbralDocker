@@ -1,0 +1,3 @@
+[submodule "pyUmbral"]
+	path = pyUmbral
+	url = git@github.com:nucypher/pyUmbral.git
